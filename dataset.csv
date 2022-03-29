@@ -1,0 +1,261 @@
+mood,track_name,artist,track_id,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+happy,Upside Down,Jack Johnson,6shRGWCtBUOPFLFTTqXZIC,0.238,0.787,0.655,0.000171,6,0.138,-8.339,0,0.0431,102.485,4,0.65
+happy,Someone New,Hozier,0efT4YKQLQx2YHbp6vgRX8,0.427,0.446,0.533,3.26E-06,7,0.332,-5.955,1,0.046,183.81,4,0.58
+happy,Little Talks,Of Monsters and Men,3a2tuvXCHbW5nuUckuHkKT,0.0206,0.445,0.757,0,1,0.146,-5.177,1,0.0322,102.878,4,0.421
+happy,Heart's Content,Brandi Carlile,0pegFWSUOTiG0sLVEfxtvA,0.724,0.564,0.209,3.99E-05,3,0.107,-8.922,1,0.0317,109.024,4,0.402
+happy,Sunday Morning,Maroon 5,4T5cqerbDXueYSVfXkIITo,0.0756,0.604,0.761,0,0,0.062,-5.227,1,0.0468,88.04,4,0.787
+happy,Ophelia,The Lumineers,3d8y0t70g7hw2FOWl9Z4Fm,0.613,0.664,0.573,0.000363,5,0.0857,-6.519,1,0.0277,76.023,4,0.566
+happy,Riptide,Vance Joy,3JvrhDOgAt6p7K8mDyZwRd,0.431,0.484,0.731,0,1,0.151,-6.694,1,0.0379,101.654,4,0.51
+happy,Everybody Talks,Neon Trees,3528IXKpbb7OMjdjWYlbfD,0.00301,0.471,0.924,0,8,0.313,-3.906,1,0.0586,154.961,4,0.725
+happy,"Hey, Soul Sister",Train,6mghCOaaSvrke0z1EUVUIf,0.203,0.674,0.89,0,1,0.0819,-4.446,0,0.0459,97.02,4,0.737
+happy,I Lived,OneRepublic,7D49Iig0avHre9RFSUMkd2,0.0746,0.599,0.854,0,9,0.278,-5.429,1,0.0436,119.986,4,0.311
+happy,Something I Need,OneRepublic,4KANJH1baadr3U7XsVbM17,0.164,0.683,0.601,0,7,0.119,-6.927,1,0.0308,98.97,4,0.62
+happy,Tongue Tied,Grouplove,0GO8y8jQk1PkHzS31d699N,0.00847,0.56,0.936,0,3,0.161,-5.835,1,0.0439,112.96,4,0.371
+happy,Almost (Sweet Music),Hozier,5Apvsk0suoivI1H8CmBglv,0.0215,0.523,0.687,2.86E-06,7,0.203,-5.601,1,0.105,90.036,4,0.711
+happy,My Girl,The Temptations,745H5CctFr12Mo7cqa1BMH,0.635,0.572,0.418,0,0,0.0961,-10.738,1,0.0349,104.566,4,0.694
+happy,Left Hand Free,alt-J,4iEOVEULZRvmzYSZY2ViKN,0.462,0.697,0.877,0.00943,3,0.083,-4.465,1,0.0462,101.99,4,0.802
+happy,Down the Line,Beach Fossils,05ZUxHiGT7VR6ShJjhwJxn,0.237,0.615,0.743,0.00431,7,0.148,-6.569,1,0.041,162.22,4,0.528
+happy,Love My Way,Various Artists,3GITxE9ghA1r7iOZXRbS6O,0.0221,0.674,0.831,9.90E-05,0,0.107,-7.282,1,0.0367,126.075,4,0.606
+happy,3 Nights,Dominic Fike,1tNJrcVe6gwLEiZCtprs1u,0.223,0.815,0.518,0,7,0.104,-6.594,0,0.0897,151.891,4,0.877
+happy,Needs,Verzache,0WKmVAD4VWk5EdTyCFILi4,0.189,0.813,0.601,0.0002,11,0.426,-7.552,0,0.116,118.981,4,0.855
+happy,Are You Bored Yet? (feat. Clairo),Wallows,57RA3JGafJm5zRtKJiKPIm,0.156,0.682,0.683,2.32E-05,8,0.273,-6.444,0,0.0287,120.023,4,0.64
+happy,Amerika,Young the Giant,6pqKbOiVd58jcnxqIB10Ra,0.0141,0.625,0.781,1.17E-06,0,0.0662,-5.756,1,0.0456,89.982,4,0.178
+happy,Dancing in the Moonlight,Toploader,3Fzlg5r1IjhLk2qRw667od,0.0624,0.632,0.856,0,10,0.347,-3.463,1,0.0348,119.397,4,0.867
+happy,Dancing Feet (feat. DNCE),Kygo,4RAR8g8fZNB106ezUurnE0,0.293,0.75,0.797,0,0,0.392,-4.826,1,0.118,105.949,4,0.523
+happy,Eternal Sunshine,LiQWYD,4hccKNseI59YKoEN7rQCHb,0.0123,0.582,0.911,0.791,1,0.425,-7.055,0,0.0339,120.984,4,0.185
+happy,In Your Arms (For An Angel),Topic,5WOnsi0Bug74LmhxcPfKvR,0.0399,0.694,0.828,0,11,0.0796,-4.653,0,0.0336,126.002,4,0.407
+happy,Wherever You Go,Pierse,0kn3k32BxdrzHYVNVApya5,0.0184,0.682,0.817,0.00882,3,0.104,-4.574,1,0.036,127.978,4,0.334
+happy,"Happy - From ""Despicable Me 2""",Pharrell Williams,60nZcImufyMA1MKQY3dcCH,0.219,0.647,0.822,0,5,0.0908,-4.662,0,0.183,160.019,4,0.962
+happy,Wave of You,Surfaces,5Ne1q9Hv3l2NHBA3Agt8WT,0.057,0.695,0.656,0,1,0.267,-6.038,1,0.0489,90.986,4,0.346
+happy,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,4iJyoBOLtHqaGxP12qzhQI,0.321,0.677,0.696,0,0,0.42,-6.181,1,0.119,90.03,4,0.464
+happy,Everybody Talks,Neon Trees,2iUmqdfGZcHIhS3b9E9EWq,0.00301,0.471,0.924,0,8,0.313,-3.906,1,0.0586,154.961,4,0.725
+happy,My Body,Young the Giant,1KDYN3odJHnj9pqGHN3FVs,0.0011,0.488,0.909,1.02E-05,10,0.456,-6.591,1,0.0929,129.774,4,0.643
+happy,Someone New,Hozier,2DNXgvkyv35vTWvdgjs7qn,0.429,0.443,0.533,3.66E-06,7,0.332,-5.956,1,0.0473,183.791,4,0.596
+happy,One Dance,Drake,1zi7xx7UVEFkmKfv06H8x0,0.00776,0.792,0.625,0.0018,1,0.329,-5.609,1,0.0536,103.967,4,0.37
+happy,Kiss Me More (feat. SZA),Doja Cat,0VXNv42fMCHUaugnEgTeI7,0.245,0.781,0.692,0.000168,8,0.123,-3.479,1,0.0301,110.962,4,0.726
+happy,Cocoon,Milky Chance,6acDlNeA06MCVCzsTVGr9V,0.0998,0.743,0.659,0.00028,10,0.0622,-6.755,1,0.0343,114.033,4,0.804
+happy,Adore You,Harry Styles,3jjujdWJ72nww5eGnfs2E7,0.0237,0.676,0.771,7.00E-06,8,0.102,-3.675,1,0.0483,99.048,4,0.569
+happy,Watermelon Sugar,Harry Styles,6UelLqGlWMcVH1E5c4H7lY,0.122,0.548,0.816,0,0,0.335,-4.209,1,0.0465,95.39,4,0.557
+happy,Classic,MKTO,6FE2iI43OZnszFLuLtvvmg,0.0384,0.72,0.791,0,1,0.157,-4.689,1,0.124,102.071,4,0.756
+happy,Walking On Sunshine,Katrina & The Waves,05wIrZSwuaVWhcv5FfqeH0,0.0116,0.596,0.869,0.173,10,0.0678,-11.97,1,0.037,109.902,4,0.944
+happy,Shut Up and Dance,WALK THE MOON,4kbj5MwxO1bq9wjT5g9HaA,0.00701,0.578,0.866,0,1,0.257,-3.804,1,0.0619,128.038,4,0.619
+happy,Animal,Neon Trees,1fBl642IhJOE5U319Gy2Go,0.000346,0.482,0.833,0,5,0.365,-5.611,1,0.0449,148.039,4,0.74
+happy,Electric Feel,MGMT,3FtYbEfBqAlGO46NUDQSAt,0.0709,0.763,0.803,0.285,1,0.348,-3.713,1,0.0351,103.04,3,0.561
+happy,Juice,Lizzo,0k664IuFwVP557Gnx7RhIl,0.00611,0.767,0.889,0,7,0.402,-2.988,1,0.0963,119.93,4,0.843
+happy,Golden,Harry Styles,45S5WTQEGOB1VHr1Q4FuPl,0.21,0.448,0.838,0.000131,4,0.131,-5.257,0,0.0557,139.863,4,0.254
+happy,Wait a Minute!,WILLOW,0y60itmpH0aPKsFiGxmtnh,0.0371,0.764,0.705,1.94E-05,3,0.0943,-5.279,0,0.0278,101.003,4,0.672
+happy,OctaHate,Ryn Weaver,7JVfDagtyWy9bYsaf37H9K,0.593,0.617,0.672,1.31E-05,6,0.106,-6.274,1,0.0603,79.979,4,0.361
+happy,Promises,Ryn Weaver,1rQVylbMy4s9NLcHPeOL9c,0.0148,0.546,0.751,0.00512,1,0.106,-5.857,0,0.0382,119.846,4,0.0632
+happy,July (feat. Leon Bridges),Noah Cyrus,3V0nnQhqvbE3JmiDdnzQFQ,0.853,0.708,0.211,0,9,0.131,-9.603,0,0.0424,72.5,4,0.362
+happy,It's You That Makes Me,Prince of Spain,591wWiv6D0i0NTlhvW5K0Q,0.0397,0.569,0.41,0.281,7,0.103,-12.457,1,0.0293,108.962,4,0.0875
+happy,Pierre,Ryn Weaver,31c1V9xUONZYk78NE4Id8D,0.289,0.607,0.827,2.95E-06,9,0.718,-4.282,1,0.0484,100.062,4,0.552
+happy,Hymn for the Weekend,Coldplay,3RiPr603aXAoi4GHyXx0uy,0.211,0.491,0.693,6.92E-06,0,0.325,-6.487,0,0.0377,90.027,4,0.412
+happy,Adventure of a Lifetime,Coldplay,69uxyAqqPIsUyTO8txoP2M,0.00205,0.638,0.924,0.000175,7,0.149,-3.887,1,0.036,111.995,4,0.53
+happy,Ain't It Fun,Paramore,1j8z4TTjJ1YOdoFEDwJTQa,0.154,0.61,0.893,4.41E-05,9,0.021,-3.681,1,0.0921,104.031,4,0.673
+happy,Best Song Ever,One Direction,5T7ZFtCcOgkpjxcuaeZbw0,0.0227,0.652,0.877,0,1,0.0789,-2.986,1,0.0465,118.491,4,0.486
+happy,Locked out of Heaven,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,0.049,0.726,0.698,0,5,0.309,-4.165,1,0.0431,143.994,4,0.867
+happy,Pompeii,Bastille,4Ub8UsjWuewQrPhuepfVpd,0.0755,0.679,0.715,0,9,0.271,-6.383,1,0.0407,127.435,4,0.571
+happy,We Are Young (feat. Janelle Monáe),fun.,5rgy6ghBq1eRApCkeUdJXf,0.02,0.378,0.638,7.66E-05,10,0.0849,-5.576,1,0.075,184.086,4,0.735
+happy,Dancing Queen,ABBA,0GjEhVFGZW8afUYGChu3Rr,0.358,0.543,0.87,0.000939,9,0.792,-6.514,1,0.0428,100.804,4,0.754
+happy,Royals,Lorde,7BFI9QZPQKgYuR2HhDgwbG,0.121,0.674,0.428,0,7,0.132,-9.504,1,0.122,84.878,4,0.337
+happy,Drive By,Train,0KAiuUOrLTIkzkpfpn9jb9,0.00107,0.765,0.837,1.06E-05,1,0.0801,-3.113,0,0.032,122.028,4,0.721
+happy,Counting Stars,OneRepublic,6sy3LkhNFjJWlaeSMNwQ62,0.0654,0.664,0.705,0,1,0.115,-4.972,0,0.0382,122.017,4,0.477
+happy,Just Dance,Lady Gaga,5vQXxfGn1bjv5WESrYVVpw,0.0278,0.821,0.741,2.51E-05,1,0.19,-4.57,0,0.0313,118.984,4,0.741
+happy,Marry You,Bruno Mars,6SKwQghsR8AISlxhcwyA9R,0.332,0.621,0.82,0,10,0.104,-4.865,1,0.0367,144.905,4,0.452
+happy,On Top Of The World,Imagine Dragons,213x4gsFDm04hSqIUkg88w,0.0841,0.631,0.924,3.59E-06,0,0.084,-5.589,1,0.146,100.045,4,0.755
+happy,High Hopes,Panic! At The Disco,1rqqCSm0Qe4I9rUvWncaom,0.193,0.579,0.904,0,5,0.064,-2.729,1,0.0618,82.014,4,0.681
+sad,A Drop In The Ocean,Javier Colon,7fY6WvN5gbh8lXFGtqrtFd,0.25,0.318,0.56,0,7,0.27,-5.157,1,0.0346,95.885,4,0.355
+sad,Autumn Leaves - Deluxe Edition,Ed Sheeran,7iBSkXB0pTvZasOLf0Qxk9,0.892,0.555,0.257,1.42E-06,10,0.124,-12.637,1,0.0299,89.013,4,0.431
+sad,exile (feat. Bon Iver),Taylor Swift,4pvb0WLRcMtbPGmtejJJ6y,0.778,0.298,0.38,5.62E-05,6,0.11,-8.426,1,0.0287,75.602,4,0.152
+sad,Be My Mistake,The 1975,18UsAG7SfOQ5sxJEdjAMH0,0.835,0.572,0.155,0.000137,6,0.0906,-14.405,1,0.0344,109.923,3,0.0949
+sad,Reflection,Sik World,3AaHVL2PTTN8AAbA48WMo8,0.539,0.802,0.566,4.09E-06,11,0.134,-9.816,0,0.145,140.099,4,0.153
+sad,Only Hope,Various Artists,3XpgLBx3TGuDIFV5gUaR0w,0.876,0.246,0.301,1.19E-05,8,0.109,-8.714,0,0.0281,77.572,3,0.193
+sad,Fine Line,Harry Styles,6VzcQuzTNTMFnJ6rBSaLH9,0.172,0.306,0.347,0.00013,2,0.0485,-8.5,1,0.0334,120.996,4,0.0511
+sad,Visions of Gideon,Various Artists,0SUDiaR0qm30fXVGPjPvRp,0.942,0.252,0.314,0.676,5,0.0892,-18.197,0,0.0407,75.056,4,0.2
+sad,85%,Loote,5teOR8KU4XNWY2WlVUDiIR,0.346,0.574,0.651,0,7,0.149,-7.585,1,0.046,140.017,4,0.368
+sad,Phoenix II.,Alazka,70EfTOG8p4o8VnKmEM7STN,0.121,0.433,0.397,0.000225,7,0.119,-11.427,1,0.029,124.726,4,0.123
+sad,Skyfall,Adele,6VObnIkLVruX4UVyxWhlqm,0.417,0.346,0.552,0,0,0.114,-6.864,0,0.0282,75.881,4,0.0789
+sad,Wings,Birdy,1D4XFKolp63mNqqMXJJL1V,0.0831,0.474,0.707,0,7,0.162,-4.534,1,0.0253,83.235,4,0.224
+sad,Liability,Lorde,6Kkt27YmFyIFrcX3QXFi2o,0.92,0.587,0.229,0,10,0.1,-11.254,0,0.128,75.67,4,0.379
+sad,In My Veins - Feat. Erin Mccarley,Andrew Belle,7LwGBxB0h0CVmkOZxYKn0g,0.198,0.548,0.42,4.46E-06,0,0.0899,-7.842,1,0.0277,128.012,4,0.196
+sad,Saturn,Sleeping At Last,3tJjZMHLqhD8DaGgdBICnc,0.638,0.263,0.237,0.305,3,0.109,-13.738,1,0.0344,73.024,4,0.0461
+sad,I Can't Make You Love Me,Dave Thomas Junior,47lbyHWyeoRe3MJrSN4bk9,0.953,0.349,0.158,0.0391,3,0.0961,-14.019,0,0.035,123.792,4,0.0734
+sad,Rosyln,Various Artists,4k7x3QKrc3h3U0Viqk0uop,0.971,0.329,0.277,0.024,10,0.0971,-13.111,0,0.0302,159.719,3,0.121
+sad,July (feat. Leon Bridges),Noah Cyrus,3V0nnQhqvbE3JmiDdnzQFQ,0.853,0.708,0.211,0,9,0.131,-9.603,0,0.0424,72.5,4,0.362
+sad,Where's My Love - Acoustic,SYML,1eKvw144NYPlDjR0wQoGLW,0.892,0.554,0.225,0.0321,3,0.107,-11.324,1,0.0281,104.007,4,0.221
+sad,The Wire,Vancouver Sleep Clinic,2fvgn1xCyf0VQ5o33ZCoc6,0.821,0.382,0.182,0.000399,7,0.0929,-12.856,1,0.0306,81.293,4,0.129
+sad,The Night We Met,Lord Huron,0QZ5yyl6B6utIWkxeBDxQN,0.969,0.545,0.366,0.267,2,0.641,-9.51,1,0.0378,86.997,3,0.1
+sad,Bloom - Bonus Track,The Paper Kites,41yIvlFgvGwxq8qTqAR7eG,0.882,0.592,0.416,0.000586,1,0.112,-9.794,1,0.0246,96.002,4,0.417
+sad,How to Save a Life,The Fray,5fVZC9GiM4e8vu99W0Xf6J,0.269,0.64,0.743,0,10,0.101,-4.08,1,0.0379,122.035,4,0.361
+sad,Someone You Loved,Lewis Capaldi,2TIlqbIneP0ZY1O0EzYLlc,0.751,0.501,0.405,0,1,0.105,-5.679,1,0.0319,109.891,4,0.446
+sad,Apologize,OneRepublic,1NrJYpdAi7uosDRPmSYrsG,0.363,0.593,0.74,2.22E-05,8,0.102,-6.12,1,0.0339,118.008,4,0.502
+sad,Let Her Go,Passenger,7DFNE7NO0raLIUbgzY2rzm,0.385,0.509,0.538,0,7,0.104,-7.335,1,0.0572,75.089,4,0.244
+sad,"i hate u, i love u (feat. olivia o'brien)",Various Artists,2DIfgc8jdy5KYu5WGunaiF,0.685,0.493,0.275,0,6,0.101,-13.4,0,0.3,92.674,4,0.18
+sad,Fix You,Various Artists,0V3ohSXpuUXXDC5O37m3NM,0.164,0.209,0.417,0.00196,3,0.113,-8.74,1,0.0338,138.178,4,0.124
+sad,Skinny Love,Various Artists,5rRaRffQnxMnRhKWuptIrm,0.962,0.37,0.331,0.00879,4,0.114,-7.27,1,0.0476,165.454,4,0.171
+sad,everything i wanted,Billie Eilish,3ZCTVFBt2Brf31RLEnCkWJ,0.902,0.704,0.225,0.657,6,0.106,-14.454,0,0.0994,120.006,4,0.243
+sad,Chasing Cars,Sleeping At Last,2d7LPtieXdIYzf7yHPooWd,0.974,0.467,0.157,1.46E-06,11,0.0816,-9.649,1,0.0336,108.13,4,0.277
+sad,i love you,Billie Eilish,6CcJMwBtXByIz4zQLzFkKc,0.952,0.421,0.131,0.00453,0,0.109,-18.435,1,0.0382,137.446,4,0.12
+sad,Touch,Sleeping At Last,4g2WiijzSKzH8PApKDbadN,0.955,0.415,0.104,3.79E-06,0,0.104,-11.83,1,0.0426,82.006,3,0.18
+sad,when the party's over,Billie Eilish,43zdsphuZLzwA9k4DJhU0I,0.978,0.367,0.111,3.97E-05,4,0.0897,-14.084,1,0.0972,82.642,4,0.198
+sad,Your Power,Billie Eilish,5qNh5WtzMbfpSj2jLlBkoD,0.937,0.634,0.285,0.000359,9,0.232,-14.007,0,0.0807,129.65,4,0.203
+sad,Another Love,Tom Odell,3JvKfv6T31zO0ini8iNItO,0.695,0.445,0.537,1.65E-05,4,0.0944,-8.532,0,0.04,122.769,4,0.131
+sad,Someone To Stay,Vancouver Sleep Clinic,7tMbZ0RGW0jFsBw7ipEPEV,0.588,0.436,0.473,4.35E-05,1,0.103,-7.24,1,0.0307,108.906,4,0.242
+sad,Easy On Me,Adele,0gplL1WMoJ6iYaPgMCL0gX,0.578,0.604,0.366,0,5,0.133,-7.519,1,0.0282,141.981,4,0.13
+sad,Arcade,Duncan Laurence,1J14CdDAvBTE1AJYUOwl6C,0.827,0.453,0.35,0.00122,9,0.144,-11.639,0,0.0425,72.017,3,0.279
+sad,Let Me Down Slowly,Alec Benjamin,2uaiyLKnYvazyfR0Ky3Kbk,0.733,0.649,0.548,0,1,0.136,-5.692,0,0.0318,150.036,4,0.506
+sad,I Fall Apart,Post Malone,75ZvA4QfFiZvzhj2xkaWAh,0.0689,0.556,0.538,0,8,0.196,-5.408,0,0.0382,143.95,4,0.291
+sad,Love In The Dark,Adele,7B5Npv8NjjTCzk8PLpU66h,0.528,0.331,0.341,0,9,0.109,-6.057,0,0.0309,109.821,4,0.152
+sad,traitor,Olivia Rodrigo,5CZ40GBx1sQ9agT82CLQCT,0.691,0.38,0.339,0,3,0.12,-7.885,1,0.0338,100.607,4,0.0849
+sad,drivers license,Olivia Rodrigo,5wANPM4fQCJwkGd4rN57mH,0.768,0.561,0.431,1.42E-05,10,0.106,-8.81,1,0.0578,143.875,4,0.137
+sad,Lover of Mine,John Vincent III,5wejUto9orDIV7g8eb6VZ6,0.513,0.422,0.269,0.000212,8,0.203,-9.457,1,0.0359,111.884,3,0.052
+sad,Medicine,Daughter,4TxJQDtvYHJcOBH6ONi6q2,0.106,0.166,0.298,0.206,3,0.572,-12.439,1,0.032,78.437,5,0.207
+sad,this is me trying,Taylor Swift,7kt9e9LFSpN1zQtYEl19o1,0.314,0.515,0.476,4.74E-05,9,0.171,-9.843,1,0.0328,135.886,4,0.412
+sad,Before You Go,Lewis Capaldi,2gMXnyrvIjhVBUZwvLZDMP,0.604,0.459,0.575,0,3,0.0885,-4.858,1,0.0573,111.881,4,0.183
+sad,Someone You Loved,Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,0.751,0.501,0.405,0,1,0.105,-5.679,1,0.0319,109.891,4,0.446
+sad,changes,XXXTENTACION,7AFASza1mXqntmGtbxXprO,0.883,0.669,0.308,0,11,0.0984,-10.068,1,0.029,64.934,4,0.52
+sad,Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells),ILLENIUM,2DqhE7xzpGNsKYbptqblJg,0.11,0.563,0.555,1.02E-06,2,0.108,-5.429,1,0.0288,144.336,4,0.267
+sad,Dancing On My Own,Calum Scott,2BOqDYLOJBiMOXShCV1neZ,0.837,0.681,0.174,3.35E-05,1,0.0983,-8.745,1,0.0315,112.672,4,0.231
+sad,A Drop In The Ocean,Ron Pope,5JDcQAztvZTIkrWoZihgvC,0.785,0.447,0.393,0,5,0.28,-8.65,1,0.038,73.139,3,0.564
+sad,Falling,Harry Styles,1ZMiCix7XSAbfAJlEZWMCp,0.839,0.567,0.267,1.46E-06,4,0.089,-6.502,1,0.0299,110.011,4,0.0592
+sad,Talking to the Moon,Bruno Mars,161DnLWsx1i3u1JT05lzqU,0.511,0.498,0.59,0,1,0.107,-4.721,0,0.032,145.867,4,0.0784
+sad,When I Was Your Man,Bruno Mars,0nJW01T7XtvILxQgC5J7Wh,0.932,0.612,0.28,0,0,0.088,-8.648,1,0.0434,72.795,4,0.387
+sad,It Will Rain,Various Artists,0RUGuh2uSNFJpGMSsD1F5C,0.337,0.576,0.835,0,2,0.082,-6.826,1,0.0486,150.017,4,0.476
+sad,Shallow,Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,0.385,0,7,0.231,-6.362,1,0.0308,95.799,4,0.323
+sad,That Should Be Me,Justin Bieber,0aPZbnkMoWJaJ5CNVLCj8S,0.199,0.552,0.603,0,8,0.151,-5.71,1,0.0334,139.908,4,0.231
+sad,SUGAR,BROCKHAMPTON,6U0FIYXCQ3TGrk4tFpLrEA,0.449,0.453,0.538,0,1,0.19,-8.212,1,0.0638,122.973,4,0.516
+sad,Hallucinogenics,Matt Maeson,6bLU8e0LGyztE9iD5DWBQ1,0.457,0.549,0.653,0,0,0.0969,-7.47,1,0.0503,121.348,4,0.287
+sad,ghostin,Ariana Grande,2vdBo4ALPYbHRUPKgtE5iC,0.418,0.287,0.364,1.80E-05,9,0.185,-8.295,1,0.0306,103.777,4,0.11
+sad,Unsteady,X Ambassadors,7lGKEWMXVWWTt3X71Bv44I,0.178,0.389,0.665,0.000732,0,0.116,-6.169,1,0.0644,117.055,4,0.199
+sad,Happier Than Ever,Billie Eilish,4RVwu0g32PAqgUiJoXsdF8,0.767,0.332,0.225,0.00349,0,0.128,-8.697,1,0.0348,81.055,3,0.297
+sad,lovely (with Khalid),Billie Eilish,0u2P5u6lvoDfwTYjAADbn4,0.934,0.351,0.296,0,4,0.095,-10.109,0,0.0333,115.284,4,0.12
+stressful,Chlorine,Twenty One Pilots,23OXdR7YuUBVWh5hSnYJau,0.0735,0.609,0.674,0.06,10,0.345,-7.388,0,0.0548,90.009,4,0.315
+stressful,Jumpsuit,Twenty One Pilots,1E1uGhNdBe6Dddbgs2KqtZ,0.00849,0.62,0.61,0.162,11,0.205,-8.329,0,0.0373,127.052,4,0.235
+stressful,Pet Cheetah,Twenty One Pilots,7daBwTiPNOVgoMUG4SICgh,0.0615,0.653,0.684,0.000387,7,0.27,-7.052,0,0.199,110.049,4,0.355
+stressful,Doubt,Twenty One Pilots,57yL3161hUMuw06zzzUCHi,0.121,0.719,0.645,0.00316,2,0.362,-6.141,0,0.0358,123.02,4,0.69
+stressful,Start a Riot,Various Artists,6V81K1OcvYgHEnCA6A2Qx9,0.0128,0.728,0.727,0,2,0.0882,-3.585,1,0.206,143.144,4,0.89
+stressful,Hello Kitty,Jazmin Bean,5GCwCzJkdefEhYU6mLyRu1,0.0894,0.452,0.796,0,9,0.0319,-5.111,0,0.0608,104.786,4,0.107
+stressful,I'm Yer Dad,GRLwood,0GxbglYySl18aZDIaGu1RU,0.0106,0.551,0.953,0.474,0,0.118,-4.695,1,0.17,128.462,4,0.176
+stressful,"Dance, Dance",Fall Out Boy,0a7BloCiNzLDD9qSQHh5m7,0.00523,0.622,0.961,0,11,0.0854,-3.198,0,0.154,114.452,4,0.449
+stressful,CEASE AND DESIST,Alice Glass,3cIttzoAjoc44h6noteqJh,3.90E-05,0.384,0.97,0.409,1,0.369,-0.862,1,0.23,180.189,4,0.444
+stressful,Tick Tock,Joji,5E7p95xh9Ul4vZp4LEoJwi,0.0399,0.781,0.613,0.00713,4,0.0976,-5.582,0,0.0524,80.53,4,0.613
+stressful,Alastor's Game,The Living Tombstone,5gqGKzCDdxPHnRSkGoxD66,0.00637,0.405,0.897,1.79E-06,2,0.266,-4.533,1,0.264,200.083,4,0.744
+stressful,Shut Me Up,Mindless Self Indulgence,7AH9Fmka4of4Y25lfhvBUC,0.000673,0.589,0.797,0,1,0.0246,-4.213,1,0.173,174.039,4,0.787
+stressful,Saint Bernard,Lincoln,4YTFAawmOFyRjJdT6H95oE,0.838,0.693,0.234,0,1,0.59,-10.995,1,0.0987,100.488,4,0.44
+stressful,Bernadette,IAMX,0bs4kqtMjLLAGnzW3ueLZV,0.175,0.168,0.684,0.00322,7,0.0886,-6.13,0,0.0425,67.521,4,0.115
+stressful,Let Me Follow,Son Lux,4mBA0FHbLRbGXAqQJBepUb,0.765,0.484,0.218,0.0304,8,0.11,-13.423,0,0.0305,87.983,4,0.128
+stressful,A Different Kind of Love,Son Lux,4Adp5ixl3CJLBkCxGZWGUC,0.299,0.442,0.223,0.34,11,0.102,-13.552,0,0.0314,80.081,4,0.13
+stressful,Easy,Son Lux,0BQMym4vrghWvHFDQybmRa,0.345,0.602,0.304,0.0238,2,0.0969,-9.948,0,0.0736,73.329,4,0.156
+stressful,Plans We Made,Son Lux,2SieYbWMvEVhiTSmBUALv0,0.641,0.554,0.163,0.00248,3,0.113,-15.165,1,0.0369,102.166,4,0.136
+stressful,Run Boy Run,Woodkid,0boS4e6uXwp3zAvz1mLxZS,0.084,0.506,0.959,0.000655,5,0.135,-5.264,0,0.102,133.996,4,0.34
+stressful,Come Little Children / The Hanging Tree,Peter Hollens,2IfIIu4v91BXJxspBlISbv,0.826,0.491,0.268,0,0,0.484,-10.347,0,0.0409,130.494,3,0.342
+stressful,Saints,Echos,3BuFzaaIPQHAFqPubPzcIO,0.026,0.512,0.477,4.84E-05,2,0.11,-9.912,0,0.0311,120.04,4,0.174
+stressful,Bermuda,Sickick,5wE12WDUvty3rLhI19CZNF,0.552,0.6,0.414,2.05E-05,4,0.0584,-10.179,0,0.204,149.949,4,0.364
+stressful,Black Sea,Natasha Blume,5XMYHUrX71sStmDNqJoyPZ,0.176,0.463,0.595,9.11E-06,4,0.174,-5.251,0,0.0332,59.977,4,0.108
+stressful,Where the Watermelons Rot,Madelynne Whitt,37gb4JjvBTcuRONxvw8OeF,0.876,0.457,0.186,0.00437,9,0.332,-20.866,1,0.124,144.68,4,0.269
+stressful,Corridors,Hildur Guðnadóttir,4f76tcz3PKwty5QVA8JVCA,0.187,0.206,0.337,0.926,4,0.224,-15.391,1,0.065,161.707,4,0.0324
+stressful,Every You Every Me,Placebo,3tRv4ZYZimrL27flnjgeR6,2.70E-05,0.478,0.923,0.719,10,0.325,-7.547,1,0.0569,133.134,4,0.165
+stressful,Running Up That Hill,Placebo,6RHHbAbyIcPpvS1dP3KUGq,0.269,0.45,0.356,0.515,10,0.0944,-13.692,0,0.0337,179.937,4,0.0839
+stressful,Outcast,Scary Music Orchestra,5dAxe9q81t9RXyoDXM2BTT,0.995,0.166,0.00606,0.939,11,0.0835,-31.063,0,0.0405,71.504,4,0.05
+stressful,Breezeblocks,alt-J,3n69hLUdIsSa1WlRmjMZlW,0.096,0.616,0.656,0.000879,5,0.205,-7.298,1,0.0344,150.071,4,0.286
+stressful,Tessellate,alt-J,1o22EcqsCANhwYdaNOSdwS,0.364,0.702,0.607,0.0263,2,0.123,-6.509,1,0.0405,116.961,4,0.436
+stressful,Still Don't Know My Name,Labrinth,6N22FZs2ZhPBYi3b9XPajV,0.471,0.316,0.63,0.262,5,0.205,-5.963,1,0.117,89.643,1,0.313
+stressful,Formula,Labrinth,6EtKlIQmGPB9SX8UjDJG5s,0.0448,0.574,0.664,0.0553,11,0.146,-6.068,1,0.0409,144.654,4,0.226
+stressful,Swim,Chase Atlantic,3M0lSi5WW79CXQamgSBIjx,0.27,0.666,0.542,0,8,0.0765,-6.429,1,0.0392,120.134,4,0.0771
+stressful,damn Right,AUDREY NUNA,01ukVTKa6DhejzNulpoG2t,0.0988,0.852,0.549,1.35E-06,10,0.122,-7.31,0,0.317,162.027,4,0.666
+stressful,After Dark,Mr.Kitty,0zCgWGmDF0aih5qexATyBn,0.0673,0.579,0.601,0.414,8,0.0778,-10.492,1,0.0322,140.019,4,0.0392
+stressful,Volatile Times,IAMX,4kvP22CNTw0NdU1XF39CvA,0.00208,0.226,0.59,0.00722,5,0.13,-6.388,0,0.0349,110.836,3,0.186
+stressful,Wires,The Neighbourhood,5v8aEcHcaJIGYpfVVPtJjI,0.0004,0.568,0.569,0.102,7,0.342,-6.013,0,0.0329,72.991,4,0.266
+stressful,Young And Menace,Fall Out Boy,6XEPmHllDGDaO4w84Xjtgi,0.112,0.646,0.833,0.000462,11,0.121,-5.134,1,0.057,108.003,4,0.278
+stressful,Control,Halsey,3SKzTIl9mW0DadTys9SFo3,0.399,0.549,0.675,0,4,0.181,-5.637,0,0.0332,119.898,4,0.206
+stressful,Brutus,The Buttress,57gfWnvoMmnXBdghubxWrg,0.00145,0.731,0.548,0.0501,11,0.158,-10.983,0,0.254,139.997,4,0.392
+stressful,Everybody Gets High,MISSIO,3nH3Gtm9GQVfiaYDr4AXji,0.0234,0.432,0.558,0.000358,11,0.0924,-6.843,1,0.286,58.748,4,0.46
+stressful,Final Hours,ROZEN,5GPVcl21bMr4HtdVGPacbq,0.948,0.207,0.353,0.889,7,0.253,-18.726,0,0.0298,84.755,4,0.346
+stressful,The Clock Is Ticking,The Next Step,0hFheAvQVFPnNoji2hcu0K,0.015,0.558,0.31,0.838,11,0.108,-12.342,0,0.0278,127.949,4,0.0877
+stressful,The Winter Soldier,Henry Jackman,53xdABEP9hyvBwvuXpzeXG,0.00405,0.252,0.378,0.939,1,0.469,-15.31,1,0.0393,114.955,4,0.0351
+stressful,Stress,Justice,1YdbiBOWvFUi6Zko3HXyEG,0.00297,0.518,0.932,0.881,10,0.268,-4.854,0,0.134,126.94,4,0.279
+stressful,Final Hours - Remixed,Theophany,3SgrLSd6cKIFn9ck7ROhKy,0.52,0.15,0.419,0.968,7,0.101,-16.718,0,0.0521,79.023,4,0.056
+stressful,Mania,Alon Mor,6FKPPNjMFEekgUfy5v838t,0.903,0.308,0.359,0.809,7,0.103,-8.995,0,0.0514,171.943,4,0.0365
+stressful,Why so Serious?,Hans Zimmer,1wdoaja3ueHHvzobn2jE2n,0.256,0.32,0.257,0.903,2,0.176,-18.484,1,0.0529,95.983,4,0.0282
+stressful,FREEPORT,Ludwig Goransson,0ASvZIiB2Ml32DlUhfaOhx,0.722,0.599,0.509,0.92,8,0.107,-17.509,1,0.04,120.03,4,0.0388
+stressful,Take Me to Hell,SWARM,0Qs8gLPsl6ToR9HmdcpryZ,0.183,0.659,0.681,0.648,8,0.0922,-7.799,1,0.101,99.986,4,0.0746
+stressful,Set Me Free,Various Artists,0FtHZFjPoDL6kQGNi4JUOq,0.0623,0.365,0.671,0.646,1,0.319,-7.691,1,0.0504,90.023,3,0.0785
+stressful,TURNSTILE - BONUS TRACK,Ludwig Goransson,7DoXkWsaj57GkW8r8wxmYY,0.223,0.272,0.622,0.871,1,0.0805,-14.832,1,0.0494,129.991,4,0.0619
+stressful,TRUCKS IN PLACE,Ludwig Goransson,2qwjVyRjKzownq7ggOcgj8,0.0328,0.309,0.464,0.726,1,0.0845,-15.132,1,0.0578,79.968,4,0.293
+stressful,Mombasa,Hans Zimmer,77QDBf1zTvyegtTpAO5EpH,0.00232,0.506,0.848,0.758,9,0.543,-13.287,0,0.0315,144.993,4,0.338
+stressful,The Untold,Secession Studios,2YGckbcAmjxbiZbYVAz5UW,0.401,0.435,0.382,0.956,1,0.0641,-17.059,1,0.0502,119.99,4,0.093
+stressful,Dawn of Faith,Eternal Eclipse,2N8pjeNjFT8Fw58e5z2LDf,0.524,0.245,0.471,0.905,0,0.0881,-9.416,0,0.0359,130.089,4,0.0967
+stressful,Skydance,Kim Planert,2QkphSuIR2eON1bsP9CBie,0.604,0.112,0.248,0.956,7,0.11,-17.656,0,0.0414,154.17,3,0.0309
+stressful,Time,Hans Zimmer,6ZFbXIJkuI1dVNWvzJzown,0.155,0.221,0.0879,0.698,7,0.0869,-16.996,1,0.0381,126.622,4,0.0401
+stressful,MADARA,Free Flow Flava,6Q1xNxPaRewcWICHQXcdfH,0.00829,0.738,0.843,0.869,10,0.181,-4.23,0,0.0292,110.005,4,0.444
+stressful,Грустная сука,IC3PEAK,18hIrODUziu3KyUxeDKlcq,0.202,0.528,0.617,0.153,8,0.146,-6.123,1,0.0657,119.047,4,0.0356
+stressful,Orchid,Gvllow,2OnVvwZomooC77jZOlGQek,0.000716,0.303,0.913,0.227,11,0.113,-4.543,1,0.2,149.291,3,0.159
+stressful,I duckinf hatw you,Ghostemane,6LHhaWs0HzuPhflDWiVtp1,0.0729,0.671,0.962,0.00663,4,0.376,-5.509,1,0.481,114.003,4,0.183
+stressful,Devouring Me,Scarlett Rose,3hIGfhvN2vW3Tsep6yfPVP,0.154,0.641,0.301,0.119,6,0.153,-15.634,0,0.08,129.862,4,0.351
+stressful,Evil spirits seeking the Shikonnotama,Kaoru Wada,1JI9psoqJuAvUQqGUn6gKJ,0.00724,0.147,0.416,0.516,1,0.148,-12.927,0,0.0409,158.987,4,0.0336
+stressful,Buffet Froid,Brian Reitzell,2gbrU8NMsUrOdCTJ53yH4M,0.247,0.206,0.231,0.85,11,0.0968,-24.597,0,0.0494,140.558,4,0.0381
+calm,"Suite bergamasque, L. 75: III. Clair de lune",Claude Debussy,1cmigB9I6IRpFqjIbzvSQB,0.993,0.335,0.00501,0.919,1,0.0618,-33.366,1,0.0451,132.085,3,0.0383
+calm,3 Spirituals for Orchestra: No. 2. Kum Bab Yah,Adolphus Hailstork,6y1FgcqMY76hCk9qLxUuy4,0.945,0.141,0.00268,0.601,2,0.0756,-37.571,0,0.0427,140.372,5,0.0386
+calm,Best Part (feat. H.E.R.),Daniel Caesar,1RMJOxR6GRPsBHL8qeC2ux,0.808,0.524,0.364,0,7,0.1,-10.209,1,0.0367,75.24,4,0.436
+calm,Lemon,Kenshi Yonezu,35KlorpQ6LQVVslvlcu1gN,0.366,0.532,0.661,0,11,0.354,-4.924,1,0.0268,86.983,4,0.446
+calm,listen before i go,Billie Eilish,0tMSssfxAL2oV8Vri0mFHE,0.935,0.319,0.0561,0.00384,0,0.388,-23.023,1,0.045,79.764,3,0.082
+calm,Godspeed,Frank Ocean,34xTFwjPQ1dC6uJmleno7x,0.931,0.421,0.0952,0.000201,6,0.126,-12.561,1,0.0479,109.698,4,0.0773
+calm,Fourth of July,Sufjan Stevens,5Qnrgqy1pAm9GyNQOgyVFz,0.973,0.435,0.104,0.33,6,0.119,-22.39,0,0.0445,120.484,4,0.162
+calm,Put Your Head On My Shoulder,The Macarons Project,0ak7menu48sIUr2jBUj3xm,0.968,0.56,0.143,0.000195,9,0.0938,-9.554,1,0.0342,97.879,3,0.46
+calm,Mystery of Love,Various Artists,4HbeGjbt7u3pvwDk1vN7P0,0.94,0.365,0.273,0.431,4,0.109,-16.526,0,0.038,132.285,5,0.238
+calm,Staying,Koda,5G5ogjmnQxSQG9cskbNEse,0.97,0.267,0.244,0.314,4,0.0873,-14.014,0,0.0447,179.209,3,0.137
+calm,One More Love Song,Mac DeMarco,0v8J17a6cO0wWp7z731GTd,0.765,0.708,0.323,0.52,9,0.0939,-11.199,0,0.03,141.013,4,0.502
+calm,Wash.,Bon Iver,7rIhp6EWLNtM8qFIQruJPT,0.99,0.31,0.146,0.261,0,0.076,-19.278,1,0.0303,162.831,3,0.333
+calm,warm glow,Hippo Campus,0WSPIU3Y3bNXsGeKnzSnt1,0.324,0.445,0.446,0.119,9,0.106,-8.87,1,0.0286,92.463,4,0.0384
+calm,"Wasteland, Baby!",Hozier,1HYnjKqSSHh1tdl2Hi57zH,0.612,0.427,0.407,0.386,2,0.109,-9.665,1,0.0382,168.844,4,0.244
+calm,Re: Stacks,Bon Iver,2LthqyP0MLhGUBICwR1535,0.979,0.676,0.0812,0.416,2,0.118,-22.846,1,0.0398,125.053,4,0.314
+calm,I Feel It Coming,The Weeknd,3dhjNA0jGA8vHBQ1VdD6vV,0.428,0.773,0.819,0,0,0.0679,-5.946,0,0.118,92.987,4,0.585
+calm,Love Yourself,Justin Bieber,50kpGaPAhYJ3sGmk6vplg0,0.835,0.609,0.378,0,4,0.28,-9.828,1,0.438,100.418,4,0.515
+calm,Just The Two Of Us,Stacey Ryan,4jz3eqH3Y8j565cUe3aSOq,0.908,0.563,0.112,0,8,0.111,-15.121,1,0.199,168.076,4,0.305
+calm,My Universe,Coldplay,3FeVmId7tL5YN8B7R3imoM,0.00813,0.588,0.701,0,9,0.2,-6.39,1,0.0402,104.988,4,0.443
+calm,Cinnamon,Jome,7pJ8EpupQvfomVNPtfneql,0.589,0.46,0.473,0.000149,8,0.111,-11.422,0,0.0479,139.956,4,0.235
+calm,Call Me Back,Young the Giant,14KP6cmTImZmrcAC5m0Azd,0.202,0.75,0.365,0.0082,7,0.122,-6.741,1,0.0372,89.981,4,0.101
+calm,Islands,Young the Giant,79bV0vhZVznsoUpq6A2lNq,0.762,0.264,0.303,0.0221,7,0.137,-14.986,0,0.0422,88.254,4,0.183
+calm,Undo,The 1975,1LD52Nzt9wg1vB3F6gelPH,0.00628,0.351,0.712,0.479,6,0.0768,-8.333,0,0.0375,129.028,4,0.352
+calm,Mystery of Love,Sufjan Stevens,5GbVzc6Ex5LYlLJqzRQhuy,0.94,0.365,0.273,0.431,4,0.109,-16.526,0,0.038,132.285,5,0.238
+calm,Little Lies,ODIE,6QpZXzHcOgXK41Y3YCx203,0.592,0.342,0.294,0.674,2,0.0944,-15.989,1,0.0426,84.014,4,0.132
+calm,Te Olvidaste,C. Tangana,6Nr40AS5eNsfFjpMrisCY3,0.625,0.795,0.361,0.00477,3,0.114,-10.701,0,0.227,88.036,4,0.346
+calm,When Love's Around (feat. Syd),ZAYN,6bL1Rqcx1RXG6VsMmrYN8F,0.312,0.694,0.584,0.00646,8,0.0717,-9.406,0,0.149,173.987,4,0.343
+calm,하루살이,DEAN,2AA1f7utyvXpmtKsEvp5lz,0.566,0.726,0.492,8.14E-06,10,0.257,-8.046,0,0.0794,85.939,4,0.526
+calm,By the docks,Lunar Skybox,0u0Yh7ucNwizG7B2iiNwb7,0.964,0.34,0.0173,0.958,0,0.118,-24.353,1,0.0406,120.092,4,0.124
+calm,Moonchild,Neon Eyes,36pKTtmRcBGGIcNNoyuIDR,0.65,0.554,0.237,0.924,11,0.0472,-18.994,0,0.0355,129.998,4,0.155
+calm,perfect,eli.,3yLU7ac4GkozoUPDW4CjZX,0.255,0.76,0.448,0,7,0.0971,-6.962,1,0.0508,78.027,4,0.393
+calm,Skater Shawty,Crisaunt,7MVgpzzyS40mfXUNHwDNIj,0.478,0.664,0.365,0.000252,0,0.146,-15.468,1,0.122,160.126,4,0.341
+calm,Eyes Blue Like The Atlantic,Sista Prod,2RrZbxdl9nuFMCrO71tXTG,0.65,0.736,0.279,0.000312,9,0.246,-16.926,0,0.903,76.431,4,0.476
+calm,Strawberry Kisses,Olivia Herdt,1djQJxMeggP8vhG85tFfQi,0.64,0.659,0.323,0,2,0.0814,-11.424,1,0.0455,86.556,4,0.353
+calm,Chinese New Year,SALES,0SIAFU49FFHwR3QnT5Jx0k,0.759,0.744,0.845,0.232,4,0.1,-7.422,0,0.253,75.221,4,0.749
+calm,"i'm in love with u, sorry",j'san,5p684vIzF5LOkmHL3I0tyM,0.97,0.578,0.288,0.633,5,0.125,-17.204,1,0.0589,94.983,4,0.276
+calm,White Ferrari,Frank Ocean,2LMkwUfqC6S6s6qDVlEuzV,0.784,0.444,0.0924,0,0,0.304,-15.605,1,0.0366,108.917,4,0.219
+calm,telepatía,Kali Uchis,6tDDoYIxWvMLTdKpjFkc1B,0.112,0.653,0.524,0,11,0.203,-9.016,0,0.0502,83.97,4,0.553
+calm,Sofia,Clairo,7B3z0ySL9Rr0XvZEAjWZzM,0.598,0.744,0.619,0.00372,0,0.231,-9.805,1,0.039,112.997,4,0.641
+calm,Jasmine,DPR LIVE,2IgbYlOlFpiSFYnsqB39lM,0.331,0.597,0.486,0,8,0.14,-5.893,1,0.0986,137.68,4,0.397
+calm,Text Me,DPR LIVE,1dN4Z7wZTQXLEl33RkMO3a,0.146,0.846,0.592,0,5,0.258,-6.452,0,0.28,134.024,4,0.757
+calm,Summer Tights,DPR LIVE,6KeIkgoC8SUeJ4VPw5Lkx8,0.504,0.832,0.64,0,6,0.0871,-6.853,0,0.082,119.915,4,0.846
+calm,Venus,DPR LIVE,2aLH4EiEoZLpbeEQvTBbtH,0.23,0.847,0.455,0,10,0.0892,-8.437,0,0.112,128.951,4,0.802
+calm,Officially Missing You,Various Artists,2j1i7IWSIauJa4FFGi3q4s,0.247,0.475,0.407,0,4,0.144,-9.239,0,0.0368,178.261,4,0.226
+calm,my future,Billie Eilish,2ygvZOXrIeVL4xZmAWJT2C,0.795,0.444,0.309,0.132,8,0.352,-10.956,1,0.062,104.745,4,0.0875
+calm,Possibility,Various Artists,39Odj4vLKRarATkCA31gaW,0.768,0.285,0.311,0.00183,0,0.0809,-10.012,1,0.032,117.813,4,0.0772
+calm,I Found - Acoustic,Amber Run,3i7Iyc932rv1AZz7gl7dj8,0.957,0.386,0.0887,0,7,0.126,-11.166,0,0.0512,171.234,3,0.274
+calm,Rebirth,Vancouver Sleep Clinic,1iySg9GTWdS0kHbGZSzdhA,0.624,0.232,0.477,0.397,2,0.0881,-10.902,1,0.0306,143.774,4,0.159
+calm,Bored,Billie Eilish,04sN26COy28wTXYj3dMoiZ,0.896,0.614,0.318,0.00239,7,0.0795,-12.695,1,0.0478,119.959,4,0.112
+calm,Billie Bossa Nova,Billie Eilish,2KnuaZYoGzDoHiBTNYOTXG,0.222,0.895,0.389,0.0346,7,0.105,-11.036,0,0.11,110.023,4,0.549
+calm,Lost in Memory,Relaxation Songs,65yf2CPdoaIP3Okku2rzvL,0.955,0.0834,0.163,0.974,8,0.11,-19.445,1,0.0511,69.002,4,0.0328
+calm,Fly Me to the Moon,The Macarons Project,0YBNpbrmpZdFRT0NFqii5C,0.915,0.456,0.113,0.0011,2,0.0959,-15.763,0,0.0334,108.536,4,0.327
+calm,Thinkin Bout You,Frank Ocean,7DfFc7a6Rwfi3YQMRbDMau,0.409,0.721,0.339,0.00153,0,0.0973,-11.195,1,0.0532,129.83,4,0.2
+calm,ilomilo,Billie Eilish,7qEKqBCD2vE5vIBsrUitpD,0.724,0.855,0.423,0.469,5,0.0896,-15.044,0,0.0585,120.02,4,0.572
+calm,love nwantiti (ah ah ah),CKay,2Xr1dTzJee307rmrkt8c0g,0.365,0.727,0.739,0.00137,8,0.161,-3.805,1,0.0411,93.005,4,0.533
+calm,The Louvre,Lorde,5q4BpnMrYEFzLO0dYODj6J,0.239,0.664,0.382,0.00749,0,0.0943,-9.977,1,0.047,123.214,4,0.126
+calm,come out and play,Billie Eilish,7wC5eZcFS1Q1BsQ35DU6H4,0.693,0.64,0.321,0.0307,0,0.114,-14.604,1,0.0931,145.045,4,0.177
+calm,Bloodstream,Ed Sheeran,5v4sZRuvWDcisoOk1PFv6T,0.529,0.66,0.316,0.000294,3,0.104,-11.567,0,0.0364,91.207,4,0.543
+calm,Shirtsleeves,Ed Sheeran,7awwmuGslmuyhnlpFipDqk,0.319,0.752,0.76,0,2,0.335,-5.34,1,0.0341,107.034,4,0.752
+calm,Hiemalis,Franz Ewer,0UcRrIl4Ti4xSdp314ZASI,0.982,0.473,0.0309,0.923,7,0.124,-30.664,1,0.0493,116.612,4,0.209
+calm,am ersten Tag,Hugo Vanbrooke,2gwhISMkdlhEqEP60P93Z1,0.988,0.238,0.026,0.914,3,0.101,-32.656,0,0.0466,64.118,3,0.169
+calm,Amour naturel,Massimo Pavoni,39bh8hsTP2ZBQWH0E308rT,0.992,0.351,0.00504,0.948,0,0.0921,-31.773,1,0.0386,97.071,4,0.0717
+calm,Dawn Of Day,Sarah Seing,635M2GuMSoVunGBe7D7vWz,0.975,0.394,0.0998,0.931,2,0.112,-29.231,1,0.0321,100.498,4,0.15
+calm,Luminous,Ludovico Einaudi,5RWA30VaTsYkFrkzxKL3aK,0.992,0.307,0.00229,0.931,1,0.098,-34.977,1,0.0519,67.775,5,0.281
+calm,In The Stars,Rebecca Woods,2hxaiA9EtXjMlXhG6SCoW8,0.988,0.397,0.00375,0.957,9,0.115,-38.226,1,0.0393,64.443,3,0.11
